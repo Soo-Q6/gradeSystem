@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<projectDescription>
+	<name>HW2</name>
+	<comment>@key 32303037303533312D3130204857322F485043 </comment>
+	<projects>
+	</projects>
+	<buildSpec>
+		<buildCommand>
+			<name>org.eclipse.jdt.core.javabuilder</name>
+			<arguments>
+			</arguments>
+		</buildCommand>
+		<buildCommand>
+			<name>com.soyatec.additional.Builder</name>
+			<arguments>
+			</arguments>
+		</buildCommand>
+	</buildSpec>
+	<natures>
+		<nature>org.eclipse.jdt.core.javanature</nature>
+		<nature>com.soyatec.additional.Nature</nature>
+	</natures>
+	<linkedResources>
+		<link>
+			<name>gradeSystem</name>
+			<type>2</type>
+			<location>D:/文档/JAVA/SoftwareEngineeringHw2-master/src/gradeSystem</location>
+		</link>
+	</linkedResources>
+</projectDescription>
